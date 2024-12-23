@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "7377ce5957f537b30a66d18bf5ae6306c8c9640fd2f2ba757c0e5da4598992b6"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "514803406c8b9e0450e965ff253662867c20cc3bffc0c122fee2c0021687d785"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "f2644c0b7c14e9f76afc4e042970f010636e98a116ed92e624e87f01a782aab6"
 metafile = true
