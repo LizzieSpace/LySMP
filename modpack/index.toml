@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/pneumono_core.pw.toml"
 hash = "7377ce5957f537b30a66d18bf5ae6306c8c9640fd2f2ba757c0e5da4598992b6"
 metafile = true
