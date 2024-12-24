@@ -51,6 +51,11 @@ hash = "6cd9a9bf87d6febfdbbc21bed222106a3c543e8daa17a5f4ee21e1a5566bcc6a"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "f38dc6a87e6d7c5d6055364dbba6954df4c67c73fcc5e887426e9e79bd91fcfd"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "8530bb8ab9c96826845acbebf96a0fd136ddacd68e3834c18d717b81b690aca1"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
 
 [[files]]
