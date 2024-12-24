@@ -36,6 +36,11 @@ hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "d3a7dc89bb9f44b35d8695ad52b7609d5338aee0ac77c0dc91993be471394fbf"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "ddf6636d5b4777c5bd03f540301746b2f87cd2639feeada52b568c38cbe42879"
 metafile = true
@@ -316,6 +321,16 @@ hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "5897110ecb150ac1a8b8160e58f37cf135d93a57ffdb0328354e408c6d6270b8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "fd6ff88f665db7a51fde201ae256015c10e6e094664a13d6fbce22a89cc2f6be"
+metafile = true
+
+[[files]]
 file = "mods/structory.pw.toml"
 hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
@@ -323,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "39e400cac51863d16e4e3b384cd34d20cd6519e8186a3d0aa608fc0756cd1451"
 metafile = true
 
 [[files]]
@@ -398,4 +418,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true

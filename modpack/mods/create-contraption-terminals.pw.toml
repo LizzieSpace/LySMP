@@ -1,0 +1,13 @@
+name = "Create Contraption Terminals"
+filename = "createcontraptionterminals-fabric-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gOPAFzp0/versions/BPTUuNBY/createcontraptionterminals-fabric-1.20-1.0.1.jar"
+hash-format = "sha512"
+hash = "aad1a6125dd6683e1863689f23d0e4b85cfb2b8dc4cc084ab3a0505974803feee7a36a2142a0c8451730688d951f390721ecf5f1d70bcda0d50530f67c64a15f"
+
+[update]
+[update.modrinth]
+mod-id = "gOPAFzp0"
+version = "BPTUuNBY"
