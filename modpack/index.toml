@@ -31,6 +31,11 @@ hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "fd12590fb8c8f24d47d79d0fe8313a8dc39c579fbdbae39163855eabd0b3819e"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "419bfd63bc351527f11cb16f22734f1c6419e7c511fb2597e6bdebc4c9beda59"
 metafile = true
@@ -111,6 +116,11 @@ hash = "6e14a5c14819bebfa6d54051fb822f2a91893b6fd84f13f555899ca1d8114705"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ac2c12d8d2b21dcdf511b01404c304a4b033f4e98f122455e58d989a5b3f4cac"
+metafile = true
+
+[[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "d3049d7de6bdef8dc34d90b74625b763f09c873ecad7e9e7695f2b72c840c6cb"
 metafile = true
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/seasons-delight-refab-compat.pw.toml"
 hash = "60a3c05c150098bb859b1850a079ff37f90a9eba07474cf164648cfb6c1cc07d"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]
