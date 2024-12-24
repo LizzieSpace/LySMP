@@ -311,6 +311,31 @@ hash = "77db2a79ccab8ea16987b981f0de7d6442f716217b83ebe9669f84006b07daf1"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "e07935009e03be5e7ae2545f413113c7c8cece2053ba74021d4a26f7e29e8a2a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cb84025b57a3c1d575299c82858235cc555867d14d06aca4388302edcdb46281"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
 metafile = true
@@ -333,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "57309d5d0327ee977e19cb6c303da019f8fe011c89bd1b9ff76834e1f05a3581"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
 
 [[files]]
@@ -383,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
 metafile = true
 
 [[files]]
@@ -461,6 +496,11 @@ hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
 metafile = true
@@ -498,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "890cc966273fcde58e0fa6e50b05498be053d2ce8b1647cf9fd12d1a02eb01fb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "871538acd879a84fd85533bc1e69f60e2e19b0b8c02d74bb1935af9fbaef959a"
 metafile = true
 
 [[files]]
