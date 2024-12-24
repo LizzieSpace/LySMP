@@ -136,6 +136,11 @@ hash = "419bfd63bc351527f11cb16f22734f1c6419e7c511fb2597e6bdebc4c9beda59"
 metafile = true
 
 [[files]]
+file = "mods/delightful-chefs.pw.toml"
+hash = "b1c280ad0301b471abd02441abb52153020b3405bda7d6654f53f8828f8f9e28"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
 metafile = true
