@@ -241,6 +241,16 @@ hash = "928f468ee559de65f53d3758c1cd3f98ef2e0a7a9aa360355ef5114f565606cf"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "7e4857dc7d6caa7ed02d981a33d4fe11fdb30387a3837a3ba0b428bf9f8cc151"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "8c6d040e35bd8399fa25eaf1d3891d45eecb5ae3196683be69cc141dec0e136e"
 metafile = true
@@ -311,6 +321,11 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "9630ec247ab11b0b5aa97de51e1fe7110bd9dd357ef9c597d0a88408866aae81"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "68fd939911d8be91a3d276485e52872a22dec1d3a57d83f903527bce38bba946"
 metafile = true
@@ -318,6 +333,16 @@ metafile = true
 [[files]]
 file = "mods/wildlife-fabric.pw.toml"
 hash = "6110a721acb5ed26ac1514767c6150b42801cf5d507deaf0ce055daece2cbb95"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c5234ec87e6bea9194af7f6ff70d820a32ddcad7199cc0b7ee92b11f6e6edf38"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "41c7ba12533210f34233faa05bd14f304f4f61eb724a412f408207551db4e2d8"
 metafile = true
 
 [[files]]
