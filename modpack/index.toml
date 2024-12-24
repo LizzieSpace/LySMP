@@ -56,11 +56,6 @@ hash = "57309d5d0327ee977e19cb6c303da019f8fe011c89bd1b9ff76834e1f05a3581"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "e374551967a4fc99edb9fc60ba96845aa0252b4a12236e7591d921c1664f6001"
 metafile = true
@@ -91,6 +86,11 @@ hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "a816f80d3ddb9233c17da83c0473ea23a0eef495f5f62fd076c07fd7aed71993"
 metafile = true
@@ -111,6 +111,11 @@ hash = "d95efc62e14e998931f267a71ffb5005ff1a28afca4f752f8bc6d7336114ae21"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+hash = "53e10cc284eef25ec7661de3178d672c0c264482dfd983582b3daa3b0c3dd318"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "6e14a5c14819bebfa6d54051fb822f2a91893b6fd84f13f555899ca1d8114705"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "d3049d7de6bdef8dc34d90b74625b763f09c873ecad7e9e7695f2b72c840c6cb"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
 metafile = true
 
 [[files]]
