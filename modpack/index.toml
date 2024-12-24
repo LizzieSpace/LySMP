@@ -516,8 +516,18 @@ hash = "ad1c4be47ec1445bd4061ca8f5e9dbe291bfd4b8dc4207ecfb65e8bd83bdd29f"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
+metafile = true
+
+[[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "d3049d7de6bdef8dc34d90b74625b763f09c873ecad7e9e7695f2b72c840c6cb"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
