@@ -36,6 +36,16 @@ hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
 metafile = true
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "096503fd155cbf1c7cb6e70a1ffc2461b6ae58a43c141ec597236cec761e7dd0"
+metafile = true
+
+[[files]]
+file = "mods/excavated_variants.pw.toml"
+hash = "57309d5d0327ee977e19cb6c303da019f8fe011c89bd1b9ff76834e1f05a3581"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
 metafile = true
