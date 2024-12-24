@@ -11,6 +11,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/artifality.pw.toml"
+hash = "e336efdfa86aeac71adfcf5c1cafbb14141fb6b9a8481ee7b611f2b191c24ff8"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.pw.toml"
 hash = "c840434fded44da4dfb3ae39ce01f485ef496334f492f4b94ca5ac591a4aa804"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
