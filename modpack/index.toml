@@ -76,6 +76,16 @@ hash = "5e086cfddf45a399397996d510805ca4d5587713556fa7e9434a340552189280"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e22f2bf1e1c8e754903aa8c453a151b57dc05a2cabe5d7f0733e6934c37e7000"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "52e1fbdb10b9166101752ad48e0a506f511235cb4ee1685dbd64a0ad598db4fc"
 metafile = true
@@ -586,6 +596,11 @@ hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
 
 [[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "db59870600051c25e50b724489fc5a5e106fe9ef454b24195a7b918421127819"
+metafile = true
+
+[[files]]
 file = "mods/pneumono_core.pw.toml"
 hash = "7377ce5957f537b30a66d18bf5ae6306c8c9640fd2f2ba757c0e5da4598992b6"
 metafile = true
@@ -721,8 +736,18 @@ hash = "4ca11e8b2f08020232bce98e6329e0831b95c9f4be962126ab865aee503a9724"
 metafile = true
 
 [[files]]
+file = "mods/tempad.pw.toml"
+hash = "a4faf061a2881a18681ffbce1c4d76029ad398f14bb5b082a4c2b182eb914cc4"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "4dcfcecd5f3be5cbb1b07a11bf6a264033c1619786491ec2a1ebf1b748324c48"
 metafile = true
 
 [[files]]
@@ -823,6 +848,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/computercreate.pw.toml"
+hash = "9857fdf93abc21a47e9f169040182676c38a520bbdbfcf5dfd06e860de77a5e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-tempad.pw.toml"
+hash = "8a5486e8cf3161a28bb5899ac49bad90063a8eb6c78a1022686a34df7b74ac31"
 metafile = true
 
 [[files]]
