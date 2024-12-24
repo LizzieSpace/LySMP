@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "38964eeb7d05a62302c0608caf86a4ab55717f96f8dbab657c4a687bc8361bc1"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -66,6 +76,11 @@ hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
 metafile = true
@@ -123,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+metafile = true
+
+[[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "1df0640a26bbbcb472bea3b915bfb96289d09f09e6be95c9a1b0423aff9c85e3"
 metafile = true
 
 [[files]]
