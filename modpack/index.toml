@@ -26,6 +26,96 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+metafile = true
+
+[[files]]
+file = "mods/create-connected-fabric.pw.toml"
+hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "ddf6636d5b4777c5bd03f540301746b2f87cd2639feeada52b568c38cbe42879"
+metafile = true
+
+[[files]]
+file = "mods/create-deepslate-processing.pw.toml"
+hash = "0a7e9dd9d874e73dc3df34b58ad9e71ac322f5477c536b3b8fb804b50e285c45"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators-fabric-restitched.pw.toml"
+hash = "6cd9a9bf87d6febfdbbc21bed222106a3c543e8daa17a5f4ee21e1a5566bcc6a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "8530bb8ab9c96826845acbebf96a0fd136ddacd68e3834c18d717b81b690aca1"
+metafile = true
+
+[[files]]
+file = "mods/create-engineer.pw.toml"
+hash = "082c674b04a0bce9b202f48df89c464ad90b6eb4b07491c919420b3314f1c98a"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "fde0ef47a710b60530f684eda6e547b13e29e85406259fa6659c5985154cbd76"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "66698c6cbf8fcf5ccece0b372d979084d7768dbddf6d6c75f11769987127694f"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "f10611e22b81f4eae5e9e012fecffe21c694cde7417b43a93ae3381508020f44"
+metafile = true
+
+[[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "ba738f1c96f3d8e2df8172f2db22b5f93089b07dbed877324e6fb9f9bf641b16"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "5a6081e7d74cca40fbac91b83e74161c184e9053bbb65e5e500c2293b49a74c2"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "25dc9c3f9c09b939f99837a9009eef529a296157fdbadd004efb9a360c6ef884"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c92aae37a2b79c96ac72e17695d1bcbdc35ca51d56f0fb8d1d9ffa9dace45274"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
 metafile = true
@@ -33,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "fd12590fb8c8f24d47d79d0fe8313a8dc39c579fbdbae39163855eabd0b3819e"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures.pw.toml"
+hash = "d0114dcd9e7b204c1d2438b902faa1561763d8bd5b3130080895a16e106f06af"
 metafile = true
 
 [[files]]
@@ -91,6 +186,11 @@ hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "a816f80d3ddb9233c17da83c0473ea23a0eef495f5f62fd076c07fd7aed71993"
 metafile = true
@@ -136,6 +236,11 @@ hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "928f468ee559de65f53d3758c1cd3f98ef2e0a7a9aa360355ef5114f565606cf"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "8c6d040e35bd8399fa25eaf1d3891d45eecb5ae3196683be69cc141dec0e136e"
 metafile = true
@@ -156,6 +261,11 @@ hash = "514803406c8b9e0450e965ff253662867c20cc3bffc0c122fee2c0021687d785"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "2c15a7ba78e8d8abbc612e55cfdb3df7c002a90d8fa467d88e28fe875ccaa3e9"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "f2644c0b7c14e9f76afc4e042970f010636e98a116ed92e624e87f01a782aab6"
 metafile = true
@@ -173,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/seasons-delight-refab-compat.pw.toml"
 hash = "60a3c05c150098bb859b1850a079ff37f90a9eba07474cf164648cfb6c1cc07d"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
