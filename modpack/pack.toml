@@ -1,12 +1,11 @@
 name = "LySMP"
 author = "Sumire & Co."
-version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ae65362020e66893799003b2b870c8ed1afa145f27d5dbd5eb030fab80cb97da"
+hash = "e8e5e4d6e6ee4728a44c64c0bb27186d9bb35716d02bd1eba1c93bba49ed677d"
 
 [versions]
 minecraft = "1.20.1"
