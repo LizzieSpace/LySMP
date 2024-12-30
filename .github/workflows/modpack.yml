@@ -16,6 +16,9 @@ on:
         description: Version to Tag with
 env:
   PACK_NAME: LySMP
+  BETA_SUFFIX: beta
+  ALPHA_SUFFIX: alpha
+  SNAPSHOT_SUFFIX: build
 jobs:
   versioning:
     name: Define version
@@ -28,7 +31,7 @@ jobs:
       - if: ${{ startsWith(github.ref, 'refs/tags/') }}
         run: echo "version=${{github.ref_name}}" >> "$GITHUB_ENV"
       - if: ${{ !startsWith(github.ref, 'refs/tags/') }}
-        run: echo "version=build.${{github.run_number}}" >> "$GITHUB_ENV"
+        run: echo "version=${{env.SNAPSHOT_SUFFIX}}.${{github.run_number}}" >> "$GITHUB_ENV"
       - if: ${{ github.event_name == 'workflow_dispatch' }}
         run: echo "version=${{inputs.version}}" >> "$GITHUB_ENV"
 
@@ -88,11 +91,11 @@ jobs:
           EOF
 
       - name: GH Release Version
-        if: ${{ !contains(env.VERSION, 'build') }}
+        if: ${{ !contains(env.VERSION, env.SNAPSHOT_SUFFIX) }}
         uses: softprops/action-gh-release@v2.0.8
         with:
-          prerelease: ${{ contains(env.VERSION, 'beta') || contains(env.VERSION, 'alpha') }}
-          make_latest: ${{ !( contains(env.VERSION, 'beta') || contains(env.VERSION, 'alpha') ) }}
+          prerelease: ${{ contains(env.VERSION, env.BETA_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX) }}
+          make_latest: ${{ !( contains(env.VERSION, env.BETA_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX) ) }}
           generate_release_notes: true
           fail_on_unmatched_files: true
           tag_name: ${{ env.VERSION }}
@@ -110,9 +113,9 @@ jobs:
         run: |
           cat << EOF >> RELEASE_BODY
 
-          ${{ !contains(env.VERSION, 'build') && format('[{0}](https://github.com/LizzieSpace/LySMP/releases/tag/{0})', env.VERSION) || format('[{0}](https://github.com/LizzieSpace/LySMP/actions/runs/{1})',env.VERSION ,github.run_id)}}\
-          ${{ ( contains(env.VERSION, 'build') || contains(env.VERSION, 'alpha')) && ' is unstable! Use it at your own risk.' || ' is mostly stable' }}\
-          ${{ contains(env.VERSION, 'beta') && ' but still a work in progress. Exercise caution and frequently backup your worlds!' || '.' }}
+          ${{ !contains(env.VERSION, env.SNAPSHOT_SUFFIX) && format('[{0}](https://github.com/LizzieSpace/LySMP/releases/tag/{0})', env.VERSION) || format('[{0}](https://github.com/LizzieSpace/LySMP/actions/runs/{1})',env.VERSION ,github.run_id)}}\
+          ${{ ( contains(env.VERSION, env.SNAPSHOT_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX)) && ' is unstable! Use it at your own risk.' || ' is mostly stable' }}\
+          ${{ contains(env.VERSION, env.BETA_SUFFIX) && ' but still a work in progress. Exercise caution and frequently backup your worlds!' || '.' }}
 
           EOF
       # =-=-=-=-=-=-=-=-=-=-= Latest Snapshot Release =-=-=-=-=-=-=-=-=-=-=-=
@@ -128,7 +131,7 @@ jobs:
       - name: GH Release Snapshot
         uses: softprops/action-gh-release@v2.0.8
         with:
-          prerelease: ${{ contains(env.VERSION, 'build') || ( contains(env.VERSION, 'beta') || contains(env.VERSION, 'alpha') )}}
+          prerelease: ${{ contains(env.VERSION, env.SNAPSHOT_SUFFIX) || ( contains(env.VERSION, env.BETA_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX) )}}
           make_latest: false
           generate_release_notes: false
           fail_on_unmatched_files: true
@@ -140,20 +143,20 @@ jobs:
       # =-=-=-=-=-=-=-=-=-= Latest Stable Release =-=-=-=-=-=-=-=-=-=-=
       - name: Delete previous Stable release
         continue-on-error: true
-        if: ${{ !contains(env.VERSION, 'build.') && !contains(env.VERSION, 'alpha') }}
+        if: ${{ !contains(env.VERSION, env.SNAPSHOT_SUFFIX) && !contains(env.VERSION, env.ALPHA_SUFFIX) }}
         run: gh release delete stable --cleanup-tag --yes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Tag as stable
-        if: ${{ !contains(env.VERSION, 'build.') && !contains(env.VERSION, 'alpha') }}
+        if: ${{ !contains(env.VERSION, env.SNAPSHOT_SUFFIX) && !contains(env.VERSION, env.ALPHA_SUFFIX) }}
         run: git tag -f -a stable -m "Latest stable version of the modpack"
 
       - name: GH Release Stable
-        if: ${{ !contains(env.VERSION, 'build.') && !contains(env.VERSION, 'alpha') }}
+        if: ${{ !contains(env.VERSION, env.SNAPSHOT_SUFFIX) && !contains(env.VERSION, env.ALPHA_SUFFIX) }}
         uses: softprops/action-gh-release@v2.0.8
         with:
-          prerelease: ${{ contains(env.VERSION, 'beta') }}
+          prerelease: ${{ contains(env.VERSION, env.BETA_SUFFIX) }}
           make_latest: false
           generate_release_notes: false
           fail_on_unmatched_files: true
@@ -171,7 +174,7 @@ jobs:
         uses: s00d/delete-older-releases@0.2.1
         with:
           keep_latest: 3
-          delete_tag_pattern: beta
+          delete_tag_pattern: ${{env.BETA_SUFFIX}}
           delete_type: prerelease
           delete_branch: ${{github.ref_name}}
         env:
@@ -181,7 +184,7 @@ jobs:
         uses: s00d/delete-older-releases@0.2.1
         with:
           keep_latest: 3
-          delete_tag_pattern: alpha
+          delete_tag_pattern: ${{env.ALPHA_SUFFIX}}
           delete_type: prerelease
           delete_branch: ${{github.ref_name}}
         env:
