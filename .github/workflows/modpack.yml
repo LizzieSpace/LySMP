@@ -94,7 +94,7 @@ jobs:
         with:
           prerelease: ${{ contains(env.VERSION, env.BETA_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX) }}
           make_latest: ${{ !( contains(env.VERSION, env.BETA_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX) ) }}
-          generate_release_notes: true
+          generate_release_notes: false
           fail_on_unmatched_files: true
           tag_name: ${{ env.VERSION }}
           files: ${{env.PACK_NAME}}-${{env.VERSION}}.mrpack
@@ -118,18 +118,21 @@ jobs:
           EOF
       # =-=-=-=-=-=-=-=-=-=-= Latest Snapshot Release =-=-=-=-=-=-=-=-=-=-=-=
       - name: Delete previous Snapshot release
+        if: contains(env.VERSION, env.SNAPSHOT_SUFFIX)
         continue-on-error: true
         run: gh release delete SNAPSHOT --cleanup-tag --yes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Tag as snapshot
+        if: contains(env.VERSION, env.SNAPSHOT_SUFFIX) 
         run: git tag -f -a SNAPSHOT -m "Latest version of the modpack"
 
       - name: GH Release Snapshot
+        if: contains(env.VERSION, env.SNAPSHOT_SUFFIX) 
         uses: softprops/action-gh-release@v2.0.8
         with:
-          prerelease: ${{ contains(env.VERSION, env.SNAPSHOT_SUFFIX) || ( contains(env.VERSION, env.BETA_SUFFIX) || contains(env.VERSION, env.ALPHA_SUFFIX) )}}
+          prerelease: true
           make_latest: false
           generate_release_notes: false
           fail_on_unmatched_files: true
@@ -154,7 +157,7 @@ jobs:
         if: ${{ !contains(env.VERSION, env.SNAPSHOT_SUFFIX) && !contains(env.VERSION, env.ALPHA_SUFFIX) }}
         uses: softprops/action-gh-release@v2.0.8
         with:
-          prerelease: ${{ contains(env.VERSION, env.BETA_SUFFIX) }}
+          prerelease: "${{ contains(env.VERSION, env.BETA_SUFFIX) }}"
           make_latest: false
           generate_release_notes: false
           fail_on_unmatched_files: true
