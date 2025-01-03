@@ -76,6 +76,11 @@ hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "5e086cfddf45a399397996d510805ca4d5587713556fa7e9434a340552189280"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+metafile = true
+
+[[files]]
+file = "mods/create-cards.pw.toml"
+hash = "081c7af2ac164de70493eb3c6194fb2572ed98bfc588bd2c6a222f0f987fae48"
 metafile = true
 
 [[files]]
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "419bfd63bc351527f11cb16f22734f1c6419e7c511fb2597e6bdebc4c9beda59"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "c5b09b74ae5ce30c6b975469cf05d15c76de31db3a0ef4894eeece68a7cd9bc0"
 metafile = true
 
 [[files]]
@@ -408,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "ff6ecc965a4f884feb6cb40757257a899529b3a4c43c7b6f82d821182e477829"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "hardcorerevival-fabric-1.20.1-12.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/667Ups4a/hardcorerevival-fabric-1.20.1-12.0.6.jar"
+hash-format = "sha512"
+hash = "e189dcff39dfa79e4305817e9595ac31f60ffdb6dcc63a411ca20f61674fe7cc49c98aa8363c8b1e64f27da19b8f969c18fd685a0cf8b90fee33265f6ca5adfa"
+
+[update]
+[update.modrinth]
+mod-id = "HqKoXaXz"
+version = "667Ups4a"

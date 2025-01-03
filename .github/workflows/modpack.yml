@@ -2,8 +2,6 @@ name: Export Modpack
 run-name: Exporting ${{ inputs.version != ''  && inputs.version || (startsWith(github.ref, 'refs/tags/') && github.ref_name || 'Snapshot')}}.
 on:
   push:
-    tags:
-      - 'v*.*.*'
     paths:
       - 'modpack/**'
       - '!modpack/packwiz*'
