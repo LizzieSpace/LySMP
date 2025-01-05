@@ -1,0 +1,15 @@
+name = "Yuusha-AR-fix"
+filename = "yuusha-ar-fix-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LizzieSpace/Yuusha-AR-fix/releases/download/v1.1.1/yuusha-ar-fix-1.1.1.jar"
+hash-format = "sha256"
+hash = "152687cf35d5c043e91244fc20be4215081de44ab66fa0991b5cf1a9089f8ac4"
+
+[update]
+[update.github]
+branch = "dev"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LizzieSpace/Yuusha-AR-fix"
+tag = "v1.1.1"

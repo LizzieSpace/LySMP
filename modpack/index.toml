@@ -356,11 +356,6 @@ hash = "6825690eefa5d0ab6e5e313c1d61ec7894f4debfa8aba4c412ec8e60eeb68c74"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "e374551967a4fc99edb9fc60ba96845aa0252b4a12236e7591d921c1664f6001"
 metafile = true
@@ -751,11 +746,6 @@ hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-astronomy.pw.toml"
-hash = "8a37fcac261932aa94595891b5beebc2f2bd6fae4c58129e90ffe57fb5def381"
-metafile = true
-
-[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
@@ -913,6 +903,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "34437aae38728e5d24698db0316299991f3c4f4cad15753a3ef7e9fef29c32b2"
+metafile = true
+
+[[files]]
+file = "mods/yuusha-ar-fix.pw.toml"
+hash = "2fc08ea959d8fd694d8a65c9c52953a38ee0d969b5e9b3de0b3266190ac04888"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "54816420ec51b23e73370b5226301c866fefe2eeafa8f647f56842d51d0e754e"
 metafile = true
 
 [[files]]
