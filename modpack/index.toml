@@ -446,11 +446,6 @@ hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
 metafile = true
@@ -536,11 +531,6 @@ hash = "d95efc62e14e998931f267a71ffb5005ff1a28afca4f752f8bc6d7336114ae21"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-nethervinery.pw.toml"
-hash = "53e10cc284eef25ec7661de3178d672c0c264482dfd983582b3daa3b0c3dd318"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "6e14a5c14819bebfa6d54051fb822f2a91893b6fd84f13f555899ca1d8114705"
 metafile = true
@@ -568,11 +558,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
-metafile = true
-
-[[files]]
-file = "mods/lovely_snails.pw.toml"
-hash = "d3049d7de6bdef8dc34d90b74625b763f09c873ecad7e9e7695f2b72c840c6cb"
 metafile = true
 
 [[files]]
@@ -618,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8ada718700562cd7d463a2677113b44ee7436be093f97579638b06411a8376a2"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
 metafile = true
 
 [[files]]
@@ -796,11 +776,6 @@ hash = "39e400cac51863d16e4e3b384cd34d20cd6519e8186a3d0aa608fc0756cd1451"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-additions.pw.toml"
-hash = "e3a64ea01d55ecc91a41a83358c961d1821502c4616ebf8526a85e6344c1ba65"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -886,18 +861,8 @@ hash = "45a03d0c059d777a1b377a2a47d36c43c0deabb5fdf1c09278a2483a27867d0c"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "7d95b19f5ee36003d12213c7caf3181b2ec0c1aa57f5e78320dcac81296b3151"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "8191d8c69351612b8e9aafd149f34761c88f98f10a27bc7f7579d8d700188dc6"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "d6925ee5fdad176201f926ca336d24e946a77c20fd4058b00b684eda631343b4"
 metafile = true
 
 [[files]]
