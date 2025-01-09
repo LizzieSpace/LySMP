@@ -1,0 +1,19 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+    "Disconnecting VANILLA connection attempt",
+    "No data fixer registered for",
+    "Parsing error loading recipe fabric:molten_metals_compat",
+    "Parsing error loading recipe create_connected'",
+    "Unknown item 'molten_metals:",
+    "Unhandled error loading model: yuushya:extra_building_material/wire/",
+    "Failed to load model yuushya:models/extra_building_material",
+    "Error in deserializing trades.Trade element: ",
+]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX:
+regex = [
+    "Disconnecting VANILLA connection attempt",
+]

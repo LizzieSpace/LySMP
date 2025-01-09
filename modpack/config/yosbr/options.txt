@@ -1,0 +1,21 @@
+darkMojangStudiosBackground:true
+fov:0.25
+screenEffectScale:0.80
+fovEffectScale:0.75
+darknessEffectScale:0.90
+
+renderDistance:10
+simulationDistance:10
+guiScale:2
+particles:0
+enableVsync:true
+graphicsMode:1
+maxFps:120
+
+resourcePacks:["vanilla","fabric","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","file/ComputerCreate.zip","file/Create_Tempad.zip","file/Create+Simple+Storage+Solid+GUI 1.1.zip","file/Simple Create Radios V1.2.zip"]
+incompatibleResourcePacks:["file/Create_Tempad.zip","file/Create+Simple+Storage+Solid+GUI 1.1.zip"]
+
+overrideWidth:1280
+overrideHeight:720
+
+skipMultiplayerWarning:true
