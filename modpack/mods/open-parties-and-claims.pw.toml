@@ -1,13 +1,13 @@
 name = "Open Parties and Claims"
-filename = "open-parties-and-claims-fabric-1.20.1-0.23.6.jar"
+filename = "open-parties-and-claims-fabric-1.20.1-0.23.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/4wqZJlJG/open-parties-and-claims-fabric-1.20.1-0.23.6.jar"
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/Pom9E6nQ/open-parties-and-claims-fabric-1.20.1-0.23.7.jar"
 hash-format = "sha512"
-hash = "212fd211c0a38e54fabebdb631c3a0ad4e1bddedee5bbe847bafd326a82b1e9f6d479df62911363acdba42ebc688bd02c645910c37ce7adbaa7faf7b1151b48a"
+hash = "9dc8d4e4908840583ea26eeaf6f5b7c91eda29fd52e02e7530a27827a880bdac89ae5f430f55f4b182a3760862cd4d141efbe99d92f7544e259086cfaf8ea41b"
 
 [update]
 [update.modrinth]
 mod-id = "gF3BGWvG"
-version = "4wqZJlJG"
+version = "Pom9E6nQ"

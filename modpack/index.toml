@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/camerapture.pw.toml"
-hash = "77003cc1cea2d647730551669d369f9fac4c76c5dc97a71f9d74aeba586c38ab"
+hash = "1d4e3b9ad03b86057339fe49785072e92a03c24e53061cf426dcc7022eb77ebc"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "5a6081e7d74cca40fbac91b83e74161c184e9053bbb65e5e500c2293b49a74c2"
+hash = "b4126dfd91618f20b6bb32e1aa7de64a38f1a39c2513ac5892fbb4c7b61e91ff"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "273f14914815aaf730e3fc23e915f141e1b2b7968ac9070fac889c68f0efa150"
+hash = "1c334a2438a4cfe3954479f4ba4c832d7fecf001219fd8ee82d44ebb496a9234"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
+hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f7f3ac34878e37196f375cd1407ff0f299aadd160ec07dee596537f7226cdf03"
+hash = "5878165d0b85618fb415caeb18786c7f6f855393bd9ae00d0fa243c97291cb0d"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "98c5a3ed8bd41a7ab32f6c52006f443849f3ccfa8683b8c013fd57a1ee67f692"
+hash = "8e260caaf9b0b25f984288a4478b69c38e84b5b7213f0ddc3a882cb36d114f21"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "2fc9c2a21ae01f9a027b54ba5a4a1a29df4523efe08e5d406636e77bcb283363"
+hash = "9d451d427ec6b1c9dabab2ec5a21e81fa9aadbf18000ce82b5a10360f27a1eaa"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "7e4857dc7d6caa7ed02d981a33d4fe11fdb30387a3837a3ba0b428bf9f8cc151"
+hash = "6007905b54e2f0a2d137906df129e52801acac2c174d9a56ed36c33dbad7e549"
 metafile = true
 
 [[files]]
