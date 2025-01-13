@@ -69,14 +69,6 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "a0c2a3e447f6eaf4d0c9d0f8c3321e46e6355baa0fb29abbd1e465047d329f9e"
 
 [[files]]
-file = "config/yosbr/options.amecsapi.txt"
-hash = "acad4dc6408a6ed1354bdc7a85e17b97643706c45551a270ca77390adfa74d07"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "402e8ee765d278aaec4f75694d876af63f0153eb6010d4989830d626e70a13c6"
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "62be8f3064dc3d047a8db23c683ef4200478766b05cf326855f9bc55e8fb6254"
 metafile = true
@@ -118,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "08934eee57062f77648ace8c6fe393a6072e13a013ce519f7009d6f1e4733c24"
+hash = "48d47327b3e356a1f40a05ae5f2709b16a169cfc4500711bfdbef20157ac462b"
 metafile = true
 
 [[files]]
@@ -328,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
-hash = "22b503dad4a5abd756f71dc6514d94bd46c27584c2c42db35674e6a1a5ab0d62"
+hash = "d7c722f240180028329f6e5dd63fb9a066e27f7a7606a4bd4d278f46bb3034aa"
 metafile = true
 
 [[files]]
@@ -348,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "86d9161e373a9b43f2cafd4f51e6a1179cd3f411f10864ca4ddfdf403fb45186"
+hash = "96e539e34ac9fbeee04cd73f4fb314dd111d432a25c7152c4212301194545507"
 metafile = true
 
 [[files]]
@@ -418,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cb84025b57a3c1d575299c82858235cc555867d14d06aca4388302edcdb46281"
+hash = "af8a0e02b6d8e380087e02fd7441bb7c546d6ab20d5f7642e04925e74cbd7659"
 metafile = true
 
 [[files]]
@@ -578,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "83faa3592a9579a62918edd2c51f926c816f3432bd4ec2d80f7a3cff0b44eb91"
+hash = "75b489bd8aec3c60fca605bf5bbe88677b1f32cfc92f3cf7e0c82a565208c70b"
 metafile = true
 
 [[files]]
@@ -603,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
+hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
 metafile = true
 
 [[files]]
@@ -653,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-emi-compat.pw.toml"
-hash = "871538acd879a84fd85533bc1e69f60e2e19b0b8c02d74bb1935af9fbaef959a"
+hash = "86db78e8c1c9eb10d5e92603c5b569232511429bc916a9a6db3c4d6895e69ed5"
 metafile = true
 
 [[files]]
@@ -663,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "6e14a5c14819bebfa6d54051fb822f2a91893b6fd84f13f555899ca1d8114705"
+hash = "4c1eaa3090a0fcb801c3e2e4618ee3038d567744d7533f0cb8f0a7791dea3250"
 metafile = true
 
 [[files]]
@@ -698,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+hash = "c5e26dbca5b1a0c41f55ff4b7b115f88d7f14700bb0a7e36556e6b414f7a6f2b"
 metafile = true
 
 [[files]]
@@ -738,12 +730,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "993b15f46c5f6ae47fb6e3a3d18020a17a10d5963a2867de86475992aec2b5c5"
+hash = "a3b5d14477312aca62734a0fc5589ffadf75e7dc83387fee2dca65d72db3efa6"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8e260caaf9b0b25f984288a4478b69c38e84b5b7213f0ddc3a882cb36d114f21"
+hash = "dcdb6715e4c1dfc9a942aa38ebae963ad71c621608fc47339e786977f0b7b6ab"
 metafile = true
 
 [[files]]
@@ -758,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "aa2a2efe002eec7e25e6eed2a2d03f9a4ced56b38ce556a04e923612c0bb86f3"
+hash = "e499c8c7f43234fdd9618692de671cd1b6cc2660d9c75bccff29128d6cb004a2"
 metafile = true
 
 [[files]]
@@ -783,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "50f215924553d76833d72a86f3f610e5777e07b29eef2ce9b3ed4c9b03419a18"
+hash = "b1f09e01ed79cffd56e2a1ddf50ab0c33ebc95155730b003b1f698b2d662f60f"
 metafile = true
 
 [[files]]
@@ -933,17 +925,17 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "7a79b956ae03dc5f12cc66eaa5ddac541e50ada2e20340c06ea665a2d696c18b"
+hash = "6a0de4a88b20d864b162894d6bd3dc754a346fccfce2bdc0f27cee1033d2c404"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+hash = "584d65e127430b251070810354b569ba0f2672034f98f67b72c974f6d72709b1"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "1bffb178939b0d524650e480efb38f419310b08e24c6fdb7eeb1d3a0038e5c8e"
+hash = "c1eda827911945c084f9b429b4405e8b6c77b8bd0746c8ee5f3bf7c516d5376a"
 metafile = true
 
 [[files]]
@@ -988,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/totw-modded.pw.toml"
-hash = "d61ac85fca14be48a977bb65bf460a89ba9b1158e64701129715a157e318be04"
+hash = "1c291bbf1d2691c42e90811e41005cd9de18dfc539655f8c6f3de0822e67349a"
 metafile = true
 
 [[files]]
@@ -1018,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7e64a330dc5eb5f3d4247f4411e0830a56c5b1ec4205090a3e74b79e60c8fced"
+hash = "cb3f72fdda7d36892a02ef34b5965724315ae89b11d0a41060ad1dd6ec353878"
 metafile = true
 
 [[files]]
@@ -1038,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/wwoo.pw.toml"
-hash = "ca5bfe1a7a7bd7d60d488281bb4dab2f0297f181a1480acc0ca6643934c9dab9"
+hash = "fc4687d6622d698e0cf2c168d1086aae92d2e85589fcee4350e8882ac73dff0e"
 metafile = true
 
 [[files]]
@@ -1105,6 +1097,14 @@ metafile = true
 file = "mods/yuushya-townscape.pw.toml"
 hash = "54816420ec51b23e73370b5226301c866fefe2eeafa8f647f56842d51d0e754e"
 metafile = true
+
+[[files]]
+file = "options.amecsapi.txt"
+hash = "acad4dc6408a6ed1354bdc7a85e17b97643706c45551a270ca77390adfa74d07"
+
+[[files]]
+file = "options.txt"
+hash = "b8d2870c3bccab61ac8fc5299efd7f41c0a324de8f2c23f36deab8f5ac6892ca"
 
 [[files]]
 file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/cable_connector/base.json"
