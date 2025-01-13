@@ -1,0 +1,5 @@
+SetKeyBindingToUnknown = true
+KeyBindings = [
+    "key.jei",
+    "key.entityculling"
+]

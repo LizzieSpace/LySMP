@@ -11,6 +11,8 @@ phrases = [
     "Unhandled error loading model: yuushya:extra_building_material/wire/",
     "Failed to load model yuushya:models/extra_building_material",
     "Error in deserializing trades.Trade element: ",
+    "Invalid mod icon for icon source",
+    "was corrected from null to its default"
 ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX:

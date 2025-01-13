@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/Ashen_Custom_Font.zip",
+    "file/Tom's Create Storage Restitched",
+    "file/Simple Create Radios V1.2.zip",
+    "file/Create Styled Tempad.zip",
+    "file/ccc.zip"
+  ],
+  "default_overrides": {
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "title": "\"Vanilla Assets\"",
+      "description": "\"Resource pack from Minecraft\""
+    },
+    "server": {
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "fixed_position": false
+    },
+    "file/Ashen_Custom_Font.zip": {
+      "default_position": "TOP",
+      "fixed_position": true,
+      "force_compatible": true,
+      "hidden": false,
+      "required": true
+    },
+    "create": [
+      "file/Tom's Create Storage Restitched",
+      "file/Simple Create Radios V1.2.zip",
+      "file/Create Styled Tempad.zip",
+      "file/ccc.zip"
+    ],
+    "$$create": {
+      "hidden": false,
+      "required": false,
+      "force_compatible": true
+    }
+  }
+}

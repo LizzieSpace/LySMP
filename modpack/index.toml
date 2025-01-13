@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/com.yuushya/client_config.json"
+file = "config/com.yuushya/client_config.json"
 hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
+
+[[files]]
+file = "config/key_binding_hider.toml"
+hash = "4a59c75205d7f2be2774547ca0d1fa867771d062d453f6440b63209402cef397"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "8b5055021c9846c8e568bd67bd249023e787bcf012e510ff7b26af32d9dd5400"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "0d4a35c407d334e4f3c861e932544297185bdc0a3c5d90f4e150aa719b8311fc"
+
+[[files]]
+file = "config/yosbr/config/create_jetpack-client.toml"
+hash = "23a0d685b34fa5d9726681dca2cd3cf716f7a57e177850132f7b7d7e38f79ba1"
+
+[[files]]
+file = "config/yosbr/config/create_jetpack-common.toml"
+hash = "3e02bfddccddb851199efe02a07104ca40e84f1899fbbb7d2a79b0155cb0874e"
 
 [[files]]
 file = "config/yosbr/config/createdynlight-client.toml"
@@ -17,16 +37,44 @@ file = "config/yosbr/config/hardcorerevival-common.toml"
 hash = "84a999cc63c65fc04c4940e4dea8d41b724dcb0c608194b5d61228159466cb11"
 
 [[files]]
-file = "config/yosbr/config/logbegone.toml"
-hash = "c534335d4c98e3d0cb9563bf36c7abae0d9bdedcba0cb3e109391df2bb16733a"
-
-[[files]]
 file = "config/yosbr/config/sit.json5"
 hash = "4d60a355caa05c3e7c54b35b1b0930ca19cf94521a54a77122f1fd6ccc9289eb"
 
 [[files]]
+file = "config/yosbr/config/tempad-client.jsonc"
+hash = "d56d8431a85eeabaa8007550f4557112b813922a9036414cb6eea11fefd753ae"
+
+[[files]]
+file = "config/yosbr/config/tempad.jsonc"
+hash = "103249151fef996292834f3c4628d929305097d6f4f9da348870a17c167bcd6b"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "356f22a516f27b1a9489edc48314f59af9dc8750c9cfb9064c41ddd0e92e66c3"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "9aba29531ece0d30ac98b2ba33f90f1a87bcb87e34cace7c230f0b5860eaf87f"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "a0c2a3e447f6eaf4d0c9d0f8c3321e46e6355baa0fb29abbd1e465047d329f9e"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "acad4dc6408a6ed1354bdc7a85e17b97643706c45551a270ca77390adfa74d07"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "161005e5f7db9c927048350878f99d944996e8e837c32db84f24b353e3a0aee4"
+hash = "402e8ee765d278aaec4f75694d876af63f0153eb6010d4989830d626e70a13c6"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -36,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fee9e5fc1dd1f26a628e087883dd2d4bc053024cc0934ddf1622c11fb03b43a0"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
 metafile = true
 
 [[files]]
@@ -179,11 +232,6 @@ hash = "765c845fe7e63a5d1ce2a4a4f31dac08c8f6a58dc61f73f2556287f72628e6d8"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
 metafile = true
@@ -216,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/create-deepslate-processing.pw.toml"
 hash = "0a7e9dd9d874e73dc3df34b58ad9e71ac322f5477c536b3b8fb804b50e285c45"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators-fabric-restitched.pw.toml"
-hash = "b5f041fe191a671a44452a71f27d27be6a630e4db80dc1ac96ed72e8dd6daa4c"
 metafile = true
 
 [[files]]
@@ -409,6 +452,11 @@ hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
+file = "mods/evenmoreinstruments.pw.toml"
+hash = "dd012450f6ef9673e69a11889607b0378eb9557ce201a68ce1c8706559b85d02"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
 metafile = true
@@ -489,8 +537,18 @@ hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "5eb15194af742dbed09f95a95413961d53c51c133fac8cc4a99d062ff39202fc"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "ff6ecc965a4f884feb6cb40757257a899529b3a4c43c7b6f82d821182e477829"
+metafile = true
+
+[[files]]
+file = "mods/harvest.pw.toml"
+hash = "078860bac1f307372efd36c5e861dd4fac7a387f138f09989f8fff0ad12b7904"
 metafile = true
 
 [[files]]
@@ -551,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
+metafile = true
+
+[[files]]
+file = "mods/keybinding-hider.pw.toml"
+hash = "b80ca3484cc7c29b1d37fd395d33510cb242c96d94ecd9ff9db23910887c8b34"
 metafile = true
 
 [[files]]
@@ -776,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "1224221ef8ec2447a9723b25dc6a92dc0ecea87d90a13754e4895abd3a4c5a8c"
 metafile = true
 
 [[files]]
@@ -1039,21 +1107,177 @@ hash = "54816420ec51b23e73370b5226301c866fefe2eeafa8f647f56842d51d0e754e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/computercreate.pw.toml"
-hash = "9857fdf93abc21a47e9f169040182676c38a520bbdbfcf5dfd06e860de77a5e3"
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/cable_connector/base.json"
+hash = "de2bd82773201064a563f46dead3a5db87f47de94aaf36b25321659a06ffc571"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/cable_connector/item.json"
+hash = "c28c94095d018fe2402c2e0cb7cc1f783488ce12662f7ed36adef49e9485efd1"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/crafting_terminal.json"
+hash = "2e2d162478d4f20a71c73861b475d8f1e1bee19a5203602a55de30b5b36c5d07"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/inventory_connector.json"
+hash = "2bad73291c6e634fc4cbdd3833fb890b1e0ce472cf04221698b699960be80454"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/inventory_hopper_basic.json"
+hash = "e62804aab5f5ca02aa28afcdbf304c3a4e20f3f852a809aaea7c074ec0504f36"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/inventory_proxy.json"
+hash = "1e117fcb3c74b1d2a45ed8c92472255bca3c0c9287cd7596a82104d0211a706e"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/level_emitter_off.json"
+hash = "54917d94e2ec3024385aa7c674b8d6fdfb0fc4506170aae61ecacdf428e911ac"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/level_emitter_on.json"
+hash = "f0793eb06ae108fb1a3f1b94dd743b2ef3b40c9fb784c9f25ec5d01a218b001b"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/storage_terminal.json"
+hash = "84840644258c3d718dc1217a88165d32cbb144ac53cbb6e6ddaf7061550f46a6"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/models/block/trim.json"
+hash = "b83e65265d5ce32c91b5689da089bc00112bd75b670dce24e8e2af9f35e05a19"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/cable_frame.png"
+hash = "36e218cfd695fc4345cff0ffc771f930d7480d1e426fc8bfcefdbbca32277459"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/crafting_link.png"
+hash = "48a53dcfbe96b46959e515296e8b10b2bc8575f0049aba34d0c85e7471491898"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/crafting_terminal_front.png"
+hash = "2675d5df6a56f94cf3ebf22f53efdfc421789eeb32610f107b2d32781cb46b3a"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/hopper.png"
+hash = "3f8a6b1b9a8365bfb786ccf2e58f06571e9758e66b93e70fbdd41c9f8babac2c"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/inv_cable_connector.png"
+hash = "68a321ce5b20837188bdd2644c1c0d07adae50ed9410580844bd95c79eb22412"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/inventory_block.png"
+hash = "36e218cfd695fc4345cff0ffc771f930d7480d1e426fc8bfcefdbbca32277459"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/inventory_cable.png"
+hash = "de3cac38807c3ff1d5585f7fede84fe9cc0e6683a4bd91887d7fd5f6d11ae79f"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/inventory_connector.png"
+hash = "a58f3de38469ec3194a5d504c357d496b26701955df5e7f88a4971a2ec974c40"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/inventory_hopper_basic.png"
+hash = "8b4cfa0cfeac2b2778eac951d4a2cf2a84c0ec495f1188e6272f7e806ecc7339"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/keyboard.png"
+hash = "2f26017444c82e412be9f6f504f82c6eb215af207208b45c409682ed0d7a7a5c"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/opencrate_bottom.png"
+hash = "a6c98176d32d57076c7a906badfd0275838a4bd859d4c8754c8acd27b8775e9b"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/opencrate_side.png"
+hash = "6d9a8013a7d46e6d3af1178202e16f9765de4bbff7b8cff04f45e237675b2c54"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/opencrate_top.png"
+hash = "d0e383fc903cfd1c37f1e54de2fdb20a569c7779a3efe096475c1f29e9de228c"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/proxy_side.png"
+hash = "3b860034cf23a13e36b6b2a31bb9c5435c656ce90184acb88a8f8fb22232b17a"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/proxy_top.png"
+hash = "d8fc1c0faa8e61b45f66eb114cd5d247e692c5a63057142d35f04c147ccc7f44"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/terminal_front.png"
+hash = "14783a75f1d98badcbb662f13ac3344a8c5e43fffbbfb5f833349ff4f1d10106"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/terminal_link.png"
+hash = "79c26cf20110a8e22f5860814577145846fb5578a5ad80c795e15210403c9738"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/terminal_side.png"
+hash = "67ea904b56e1148ff8d517ae264069372f7cc2942038e08d82070a891c4cee57"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/block/trim.png"
+hash = "cdb381e4beed907320e9227713febd591f15321db78b9efe44ec091cc89dda85"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/gui/crafting_terminal.png"
+hash = "1d45224f0ead51ef7c61eb0787cc5b3189d17073c681fc11e6cc222b6ba697e5"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/gui/storage_terminal.png"
+hash = "937203076b7a107680cc8bf200423606b0b6834dd346da8523885ae81fd5009f"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/item/adv_wireless_terminal.png"
+hash = "060161bd209cb7ff6c1649f5d9dbb0de84531e854f65cdc3047d4ad6fef75ec1"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/item/item_filter.png"
+hash = "4eb9e863b228cf422f46fe4e5ac7118a6749b4eef659fa5a1ce4421a7f6b7cb3"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/item/paint_kit.png"
+hash = "c1b460c77205ca1688e7ad491d4f3a5b04340f3836640501485335cfffddba5c"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/item/poly_item_filter.png"
+hash = "dcd61999850ad73bacb208e08f170601d29238bf0b1a5ba70ab8d7f866603a93"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/item/tag_item_filter.png"
+hash = "d12225b611caf3aaa8d026df4b9302a10f470764625f20a3506b0ce8a21a7acd"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/assets/toms_storage/textures/item/wireless_terminal.png"
+hash = "7010330160f4af3b97c2cd99ef529b724dffa11a320e99cc202fff51aae7227c"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/pack.mcmeta"
+hash = "9744af15c6fe13431a95e8082169500f3e00ad99923c9e981e9ba927459979ff"
+
+[[files]]
+file = "resourcepacks/Tom's Create Storage Restitched/pack.png"
+hash = "2675d5df6a56f94cf3ebf22f53efdfc421789eeb32610f107b2d32781cb46b3a"
+
+[[files]]
+file = "resourcepacks/ashen-16x-custom-font.pw.toml"
+hash = "252d1216de6e5dbc56d8aefaa4fa1719e975375521070cf5ae2c7a29e5a47053"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-tempad.pw.toml"
-hash = "8a5486e8cf3161a28bb5899ac49bad90063a8eb6c78a1022686a34df7b74ac31"
+file = "resourcepacks/ccc.pw.toml"
+hash = "eb32394b065f923d7ca504acb25e869f9fa08352e04c82f47d2ce77f861228f0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-styled-tempad.pw.toml"
+hash = "f4e5564e49c61aea71c402a6bf3b3655feed72f848dc2316a96784970e763a2b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/simple-create-radios.pw.toml"
 hash = "68e8ad1650417991011a69322816e87578a345c24819a677b98d9094ee9a7b40"
-metafile = true
-
-[[files]]
-file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true

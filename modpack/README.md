@@ -1,4 +1,4 @@
-# Mods in the mod-pack (v1.0.0)
+# Mods in the mod-pack (v2.0.0)
 
 - [Almanac](https://github.com/frikinjay/almanac) by frikinjay
 - [Alternate Current](https://modrinth.com/mod/alternate-current) by Space Walker
@@ -16,16 +16,24 @@
 - Brewin And Chewin by MrSterner
 - [CC: Tweaked](https://tweaked.cc/) by Daniel Ratcliffe, Aaron Mills, SquidDev
 - [CC:C Bridge](https://tweaked-programs.cc/) by Sammy L\. Koch, Luke A\. Hanssen
+- [CICADA](https://enjarai.dev/) by enjarai
 - [CTOV \- Create: Structures](https://modrinth.com/mod/ctov-create-structures) by ChoiceTheorem
 - [Camerapture](https://modrinth.com/mod/camerapture) by chrrrs
+- [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric) by DaFuqs, mortuusars
+- [Chalk: Colorful\-Addon](https://www.curseforge.com/minecraft/mc-mods/chalk-colorful-addon-fabric) by DaFuqs,
+  mortuusars
 - Chat Heads by dzwdz, Fourmisain
 - Chipped by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
 - ChoiceTheorem's Overhauled Village by ChoiceTheorem
 - [Cloth Config v11](https://minecraft.curseforge.com/projects/cloth-config) by shedaniel
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) by Jaredlll08
+- [Cluttered](https://modrinth.com/mod/cluttered) by blake, MCreator
 - [Collective](https://serilum.com/mod/collective) by Rick South
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) by RelativityMC, ishland
+- [Continents](https://www.stardustlabs.net/) by Stardust Labs
 - [Continuity](https://modrinth.com/mod/continuity) by PepperCode1
 - [Controlling For Fabric](https://minecraft.curseforge.com/projects/controlling) by Jaredlll08
+- [CorgiLib](https://github.com/CorgiTaco/CorgiLib) by Corgi Taco, Joseph T\. McQuigg \(JT122406\)
 - Create by Fabricators of Create, Creators of Create
 - [Create Contraption Terminals](https://fabricmc.net/) by tom5454
 - [Create Crafts & Additions](https://github.com/mrh0/createaddition) by MRH0
@@ -34,6 +42,7 @@
 - Create Goggles by Robocraft999
 - Create Jetpack by possible\_triangle
 - Create Slice & Dice by possible\_triangle
+- Create: Cards
 - Create: Connected \[Fabric\] by Lysine, sashafiesta
 - Create: Copycats\+ by Lysine, Bennyboy1695, Redcat\_XVIII
 - [Create: Deepslate Processing](https://fabricmc.net/) by Cak
@@ -53,14 +62,13 @@
 - Creeper Overhaul by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
 - [Cull Less Leaves](https://isxander.dev) by isXander
 - [Cultural Delights Fabric](https://fabricmc.net/) by MrSterner
+- [Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) by tom5454
+- [Dawn API](https://dawnteammc.github.io/) by Hugman
 - [Delightful Chefs](https://www.curseforge.com/minecraft/mc-mods/delightful-chefs) by average\_anime
 - [Double Doors](https://serilum.com/mod/double-doors) by Rick South
-- [Dynamic Asset Generator](https://github.com/lukebemish/DynamicAssetGenerator) by Luke Bemish
-- [Dynamic FPS](https://dapprgames.com/mods) by Alexander317, AlphaKR93, Altegar, BurrConnie, DecafDawren, DenaryDev,
-  EuropaYou, FITFC, Felix14\-v2, GuNanOvO, Hubry, ImVietnam, LostLuma, LotuxPunk, Madis0, N4TH4NOT, Pixaurora, Rhbarber,
-  RinixGG, Samekichi, Setadokalo, Shihyeon, Siphalor, Taarek, TheBossMagnus, TheLegendofSaram, XfedeX, altrisi,
-  dima\-dencep, egeesin, godkyo98, ishi\-sama, juliand665, kyrtion, mpustovoi, notlin4, parly, raspberrygitq,
-  sisby\-folk, stijnvdkolk, triphora, wicivo, yichifauzi
+- [Dungeons and Taverns Stronghold Rework](https://modrinth.com/datapack/dungeons-and-taverns-stronghold-rework) by
+  NovaWostra
+- [Dynamic FPS](https://dapprgames.com/mods) by juliand665, LostLuma
 - EMI by Emi
 - EMI Enchanting by fzzyhmstrs
 - EMI Loot by fzzyhmstrs, lxly9 \(art\), unilock \(ports\)
@@ -71,11 +79,11 @@
 - [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) by Traben
 - [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) by Traben
 - [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
-- [Excavated Variants](https://github.com/lukebemish/ExcavatedVariants) by Luke Bemish
+- Explosive Enhancement by Superkat32
 - [Extra Mod Integrations](https://github.com/Kneelawk/extra-mod-integrations) by Kneelawk
+- [Fabric API](https://fabricmc.net) by FabricMC
+- [Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) by FabricMC
 - [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons) by D4rkness\_King
-- [Fabric Seasons: Delight Compat](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-delight-compat) by
-  D4rkness\_King
 - [Fabric Seasons: Delight Refabricated Compat](https://modrinth.com/project/seasons-delight-refab-compat) by
   D4rkness\_King, sazulo
 - [Fabric Seasons: Extras](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-extras) by D4rkness\_King
@@ -83,6 +91,8 @@
   D4rkness\_King
 - [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) by Fourmisain, BrekiTomasson,
   RandomMcSomethin
+- [Farmer's Cutting: Oh The Biomes We've Gone](https://modrinth.com/datapack/farmers-cutting-oh-the-biomes-weve-gone) by
+  Joshcraft2002
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated) by MehVahdJukaar,
   MerchantPug
 - Fast Load by StockiesLad \[Owner\], JoostMSoftware \[Co\-Owner\], AbdElAziz \[Forge\], kennytv \[Indirect
@@ -94,13 +104,13 @@
 - [GeckoLib 4](https://www.curseforge.com/minecraft/mc-mods/geckolib) by Gecko, Eliot, AzureDoom, DerToaster, Tslat,
   Witixin
 - Gravestones by Pneumono\_
-- Handcrafted by Alex Nijjar, Kekie6
+- [Hardcore Revival](https://mods.twelveiterations.com/mc/hardcorerevival) by BlayTheNinth
 - [Highlighter](https://anthonyhilyard.com/) by Grend
 - [Iceberg](https://anthonyhilyard.com/) by Grend
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RK\_01
 - [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersivePaintings) by Luke100000
-- [Incendium](https://www.stardustlabs.net/) by Stardust Labs
 - [Indium](https://modrinth.com/mod/indium) by comp500
+- [InvView](https://www.curseforge.com/minecraft/mc-mods/inv-view) by Potatoboy9999
 - [ItemPhysicLite](https://modrinth.com/mod/itemphysic-lite) by CreativeMD
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) by Snownee
 - [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric) by Snownee
@@ -114,33 +124,43 @@
 - [Lexiconfig](https://fabricmc.net/) by CodinGlitch
 - [Lithium](https://jellysquid.me/projects/) by JellySquid, 2No2Name
 - [Lithostitched](https://modrinth.com/mod/lithostitched/) by Apollo
+- [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) by AzureDoom, Bravarly
 - [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) by Noobanidus, ZestyBlaze, embeddedt
-- [Lovely Snails](https://modrinth.com/mod/lovely_snails) by LambdAurora
 - [LuckPerms](https://luckperms.net) by Luck
+- [MC Dungeons Armors](https://www.curseforge.com/minecraft/mc-mods/mcda) by Chronosacaria, Kluzzio, SeaOfPixels
+  \(Art\), SattesKrokodil \(Art\), Patreons \(Support\)
+- [MC Dungeons Weapons](https://www.curseforge.com/minecraft/mc-mods/mcdw) by Chronosacaria, Kluzzio
+- MC Dungeons: Enchanting by BackupCup, Iamnotagenius
 - [Memory Leak Fix](https://github.com/fxmorin/memoryleakfix) by FX \- PR0CESS
 - [MixinTrace](https://modrinth.com/mod/mixintrace) by comp500
 - [Mod Menu](https://modrinth.com/mod/modmenu) by Prospector, haykam821, TerraformersMC
 - [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) by Mehvahdjukaar
+- [Moog's Soaring Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-soaring-structures) by FinnDog
+- [Moog's Voyager Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures) by FinnDog
 - [Moonlight](https://www.curseforge.com/minecraft/mc-mods/selene) by MehVahdJukaar
 - [More Culling](https://github.com/fxmorin/moreculling) by FX \- PR0CESS
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) by Ivan Molodetskikh \(YaLTeR\)
 - [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations) by tr7zw
-- [Nullscape](https://www.stardustlabs.net/) by Stardust Labs
 - [OPAC Create Mod Support](https://www.curseforge.com/minecraft/mc-mods/opac-fabric-create-support) by xaero96
+- [Oh The Biomes We've Gone](https://potionstudios.net/) by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi
+  Taco
+- [Oh The Biomes We've Gone Delight](https://fabricmc.net/) by Project Count
+- [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow) by Corgi Taco
+- [Open Block Elevator Mod](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator-fabric) by farrucho
 - [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) by Xaero96, other
   contributors
 - Paragliders by Tictim
 - Patchouli by Vazkii, williewillus
+- [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui) by Virtuoel
 - PneumonoCore by Pneumono\_
 - Polymorph by Illusive Soulworks
 - [Prism](https://anthonyhilyard.com/) by Grend
-- [Quilt Kotlin Libraries](https://quiltmc.org) by QuiltMC: Quilt Kotlin Team
-- [Quilted Fabric API](https://quiltmc.org) by FabricMC, The Quilt Project
 - [Remove Terralith Intro Message](https://modrinth.com/datapack/remove-terralith-intro-message)
 - [Resourceful Lib](https://resourcefulbees.com) by ThatGravyBoat, Epic\_Oreo
 - [Resourcefulconfig](https://resourcefulbees.com) by ThatGravyBoat
+- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits) by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios
 - [Searchables](https://minecraft.curseforge.com/projects/searchables) by Jaredlll08
-- [Shulker Box Tooltip](https://minecraft.curseforge.com/projects/shulkerboxtooltip) by MisterPeModder
+- [Show Me Your Skin\!](https://enjarai.nl/) by enjarai
 - [Simple Voice Chat](https://modrepo.de/minecraft/voicechat/overview) by Max Henkel
 - [SimpleRadio](https://fabricmc.net/) by CodinGlitch
 - [Sit](https://curseforge.com/minecraft/mc-mods/sit-fabric) by bl4ckscor3
@@ -150,20 +170,22 @@
   by P3pp3rF1y, Ridanisaurus, Salandora
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core-unofficial-fabric-port) by
   P3pp3rF1y, Salandora
-- Spyglass Astronomy by Nettakrim
 - StackDeobfuscator by booky10
 - [Structory](https://www.stardustlabs.net/) by Stardust Labs
+- [Structory: Towers](https://www.stardustlabs.net/) by Stardust Labs
 - [Styled Chat](https://pb4.eu) by Patbox
 - [Styled Nicknames](https://pb4.eu) by Patbox
 - [Styled Player List](https://pb4.eu) by Patbox
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) by MehVahdJukaar, Plantkillable
 - [Tectonic](https://modrinth.com/project/tectonic) by Apollo
 - Tempad by CodexAdrian
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) by Adubbz
 - [Terralith](https://www.stardustlabs.net/) by Stardust Labs
+- The Graveyard by Finallion
 - [Tom's Peripherals](https://www.curseforge.com/minecraft/mc-mods/toms-peripherals) by tom5454
 - [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric) by tom5454
-- Towers of the Wild: Additions by Aurelj
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric) by Emi, C4
+- [Universal Ores](https://dawnteammc.github.io/universal_ores) by Hugman
 - Very Many Players by ishland
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
 - [WaterFrames](https://www.curseforge.com/minecraft/mc-mods/waterframes) by SrRapero720
@@ -171,8 +193,10 @@
 - [Way2Way](https://github.com/lack/way2wayfabric) by lack
 - [Waystones](https://blay09.net/) by BlayTheNinth
 - Wildlife
+- [William Wythers Overhauled Overworld \[FORGE\]](https://modrinth.com/mod/wwoo/) by William Wyther
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) by xaero96
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) by xaero96
+- YOSBR by shedaniel
 - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) by YUNGNICKYOUNG
 - [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric) by
   YUNGNICKYOUNG, Tera
@@ -180,22 +204,20 @@
   Acarii
 - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) by
   YUNGNICKYOUNG
-- [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric)
-  by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric) by
   YUNGNICKYOUNG, Tera
-- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) by
-  YUNGNICKYOUNG, Acarii
 - [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric) by YUNGNICKYOUNG, Acarii
 - [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus) by Sunekaer
 - [YetAnotherConfigLib](https://isxander.dev) by isXander
-- [\[Let's Do Addon\] Compat](https://modrinth.com/datapack/lets-do-addon-compat) by Ninjdai\_
+- [Yuushya](https://yuushya.com/townscape/) by Coco, Xiao2 or XiLaiTL, SQwatermark, XieZai, Hikari
+- [Yuushya Modelling](https://yuushya.com/townscape/) by Coco, Xiao2 or XiLaiTL, SQwatermark, XieZai, Hikari
+- [\[Let's Do Addon\] Compat](https://fabricmc.net/) by Me\!
 - [\[Let's Do\] API](https://www.curseforge.com/minecraft/mc-mods/do-api) by Cristelknight, BaumeisterJO
 - [\[Let's Do\] Bakery](https://legacy.curseforge.com/minecraft/mc-mods/lets-do-bakery) by satisfy
 - [\[Let's Do\] Candlelight](https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight) by satisfy\_u,
   BaumeisterJo, Cristelknight
 - [\[Let's Do\] HerbalBrews](https://legacy.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews) by satisfy
-- \[Let's Do\] NetherVinery by satisfy
 - \[Let's Do\] Vinery by Jason13Official, Satisfy
 - emi\-letsdo\-compat
 - [spark](https://spark.lucko.me/) by Luck
+- totw\_modded\-fabric\-1\.20\.1\-1\.0\.5
